@@ -22,6 +22,6 @@ To change the website you are logging from, change it into both init_plotly.py a
 Run log_plotly.py and leave it running to update the plot.
 
 Requirements:
-python3
-pip
-plotly-library: https://plot.ly/python/getting-started/
+* python3
+* pip
+* plotly-library: https://plot.ly/python/getting-started/
