@@ -1,6 +1,9 @@
 # ViertoLAN_plotly
 Simple plot.ly script for monitoring power consumption
 
+Example: https://plot.ly/~Zokol/32/viertolan-voltage-and-current-monitor/
+
+
 NOTE: Assumes that you have tokens.py updated with working streaming tokens from plot.ly. Check https://plot.ly/python/streaming-tutorial/ for more info.
 
 Structure for tokens.py:
